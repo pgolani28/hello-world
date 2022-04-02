@@ -1,2 +1,2 @@
 # hello-world
-My first git hub repo
+My first git hub repo is created successfully
